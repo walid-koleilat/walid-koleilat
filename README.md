@@ -2,7 +2,7 @@
 
 I build agentic AI products in regulated B2B — legal, fintech, payments — and write about what's working.
 
-Currently **VP Product & Design at [Alexi](https://www.alexi.com)**, where we 4x'd ARR in 10 months by shipping the industry's first agentic AI product to AmLaw 100 firms. Across 15+ years I've led product at Clearco, Plooto, and Alexi, and was Principal PM at Element AI through its acquisition by ServiceNow.
+Currently **VP Product & Design at [Alexi](https://www.alexi.com)**.
 
 ## What I'm building & learning here
 
