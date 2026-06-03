@@ -20,7 +20,7 @@ Most of my work right now is hands-on: agentic workflows, MCP servers, eval-driv
 
 ## About me
 
-VP Product & Design at [Alexi](https://www.alexi.com) — 4x'd ARR in 10 months shipping the first agentic AI product to AmLaw 100 firms. Previously: Clearco, Plooto, Principal PM at Element AI through its acquisition by ServiceNow. Ex-founder.
+VP Product & Design at [Alexi](https://www.alexi.com) — Scaled ARR by shipping the first agentic AI product to AmLaw 100 firms. Previously: Clearco, Plooto, Principal PM at Element AI through its acquisition by ServiceNow. Ex-founder.
 
 ## Elsewhere
 
