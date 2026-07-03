@@ -1,16 +1,21 @@
-# Hi, I'm Walid 👋
+# I build and scale AI products for regulated B2B.
 
-I build AI products for regulated B2B — legal, fintech, payments — and ship in public.
+AI-native product leader — VP of Product & Design at [Alexi](https://www.alexi.com), where I joined as the first PM, turned a legal-research tool into an agentic platform, and grew ARR 4× to 700+ law firms, including AmLaw 100. The product scores 80% on an independent legal-AI benchmark, above the 71% lawyer baseline. Before Alexi: product leadership at Plooto, Clearco, and Element AI (acquired by ServiceNow). Ex-founder.
 
-Most of my work right now is hands-on: agentic workflows, MCP servers, eval-driven product development, and the AI tooling that lets a small product team ship like a big one. I write about what's working on Substack, teach AI for product managers at APM Canada, and prototype here.
+The full record — case studies, press, testimonials: **[walidkoleilat.com](https://walidkoleilat.com)**
 
-## What I'm building
+## Open source
 
-- 🔬 **MCP servers** — `mcp-podcast-scraper` and tools that connect Claude to real workflows
-- ⚙️ **AI-native product workflows** — PRDs → tickets → PRs, design-in-code, eval-driven iteration with a 6-person team and zero PMs
-- 📦 **Prompt libraries & playbooks** — vetted setups for legal AI, agentic patterns, and regulated B2B
-- 🛠️ **Open-source tooling** — Claude Code configs, skills, and slash commands for AI product work
-- 📚 **Learning in public** — LLM internals, eval frameworks, and agentic patterns from a PM lens
+- [`legal-skills`](https://github.com/walid-koleilat/legal-skills) — Claude Code skills for legal practice
+- [`mcp-podcast-scraper`](https://github.com/walid-koleilat/mcp-podcast-scraper) — podcast-transcription MCP server
+- [`fb-marketplace-ad-generator`](https://github.com/walid-koleilat/fb-marketplace-ad-generator) — Facebook Marketplace listing generator
+- [`aie5-demo-day-v1`](https://github.com/walid-koleilat/aie5-demo-day-v1) — build-or-buy analysis agent
+
+## On the side
+
+- **ChocoBelly** — GLP-1 functional chocolate brand (pre-launch, US & Canada waitlist)
+- **Legal Codex** — the system that accelerates AI fluency across a law firm (MVP)
+- **Happy Titan** — AI-native influencer marketing agency (in development)
 
 ## What I'm exploring
 
@@ -18,12 +23,12 @@ Most of my work right now is hands-on: agentic workflows, MCP servers, eval-driv
 - Eval-driven product development as a discipline, not just a metric
 - The horizontal AI stack (Claude, MCP, agents) as the cheap-flexible alternative to vertical legal/fintech SaaS
 
-## About me
+## Writing — The Harness
 
-VP Product & Design at [Alexi](https://www.alexi.com) — Scaled ARR by shipping the first agentic AI product to AmLaw 100 firms. Previously: Clearco, Plooto, Principal PM at Element AI through its acquisition by ServiceNow. Ex-founder.
+The operator's notebook on shipping AI in regulated industries: [theharness.substack.com](https://theharness.substack.com). Start with [The Compliance Harness for AI Agents](https://theharness.substack.com/p/the-compliance-harness-for-ai-agents).
 
 ## Elsewhere
 
+- Website: [walidkoleilat.com](https://walidkoleilat.com)
 - [LinkedIn](https://linkedin.com/in/walidkoleilat)
-- [Substack](https://substack.com/@wkoleilat) — long-form on AI product leadership
-- Email: walid@happytitan.ca
+- Email: hello@walidkoleilat.com
